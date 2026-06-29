@@ -1,4 +1,4 @@
-import { Settings as SettingsIcon, User, Bell, Shield, Moon } from 'lucide-react';
+import { Settings as SettingsIcon, User, Moon } from 'lucide-react';
 
 export function Settings() {
   return (

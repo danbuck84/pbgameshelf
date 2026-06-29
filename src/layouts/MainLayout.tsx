@@ -1,5 +1,5 @@
 import { Link, Outlet, useLocation } from 'react-router-dom';
-import { Home, Gamepad2, Tv, Heart, Settings, Menu, Bell, Search, User } from 'lucide-react';
+import { Home, Gamepad2, Tv, Heart, Settings, Bell, Search, User } from 'lucide-react';
 import { cn } from '@/utils/cn';
 
 const navigation = [
